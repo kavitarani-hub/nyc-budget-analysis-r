@@ -1,6 +1,6 @@
-# NYC Expense Budget Analysis (R Sample)
+# NYC Expense Budget Analysis (R Sample)  
 
-This repository contains a sample of my work analyzing the New York City Expense Budget using R. The analysis focuses on understanding spending patterns in the FY2027 Preliminary Budget and comparing them with prior Executive and Enacted budgets. 
+This repository contains a sample of my work analyzing the New York City Expense Budget using R. The analysis is based on publicly available NYC Open Data and focuses on understanding spending patterns in the FY2027 Preliminary Budget and comparing them with prior Executive and Enacted budgets.
 
 ## Overview
 
@@ -12,6 +12,11 @@ This project demonstrates an end-to-end data workflow, including:
 - Visualization of key spending changes
 
 The workflow reflects real-world analytical processes used in fiscal policy analysis and reporting.
+
+## Data
+
+- Source: NYC Open Data (Expense Budget dataset)  
+- For demonstration purposes, this repository uses a simplified local dataset (`expense.csv`)  
 
 ## Key Features
 
@@ -34,11 +39,6 @@ The script includes:
 - Agency-level spending summaries for the FY2027 Preliminary Budget  
 - Identification of top increases and decreases across agencies  
 - A detailed drill-down analysis of the Department of Citywide Administrative Services (DCAS) to examine unit-level budget changes  
-
-## Data
-
-- Source: NYC Open Data (Expense Budget dataset)  
-- For demonstration purposes, this repository uses a simplified local dataset (`expense.csv`)  
 
 ## Note
 
